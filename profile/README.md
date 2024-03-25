@@ -1,5 +1,3 @@
-![Discord Shield](https://discordapp.com/api/guilds/399424476259024897/widget.png?style=shield)
-
 ![NSMB Central Banner](https://nsmbcentral.net/images/Banner.png)
 
 # Welcome to NSMB Central!

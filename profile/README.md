@@ -1,4 +1,4 @@
-![NSMB Central Banner](https://nsmbcentral.net/images/Banner.png)
+![NSMB Central Banner](https://www.nsmbcentral.net/assets/images/NSMB_Central_Banner.png)
 
 # Welcome to NSMB Central!
 
